@@ -1,1 +1,1 @@
-git clone https://github.com/yanjinzhou/eggjs.git
+拉取代码：git clone https://github.com/yanjinzhou/eggjs.git
